@@ -6,7 +6,7 @@
 
 - 🚀 **Exploring next:** Next.js, CMS integration, headless workflows
 
-- 🌟 **Fun fact:** Came to code through videojournalism, communications, and digital marketing. When I'm not coding, I'm practicing Kendo or chasing after my two kids.
+- 🌟 **Fun fact:** Came to code through videojournalism, communications, and digital marketing. When I'm not working, I'm practicing Kendo or chasing after my two kids.
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
