@@ -30,7 +30,7 @@
 
 ## GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=benwiacek&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=benwiacek&theme=prussian&cb=1)](https://git.io/streak-stats)
 
 ---
 
