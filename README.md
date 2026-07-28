@@ -30,7 +30,7 @@
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=benwiacek&theme=prussian&cb=1)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=benwiacek&show_icons=true&card_width=450&line_height=27&rank_icon=github&custom_title=GitHub%27s%20Stats&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=benwiacek&rank_icon=github&custom_title=Ben%20GitHub%27s%20Stats&include_all_commits=true&theme=algolia)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=benwiacek&layout=normal&&card_width=450langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=benwiacek&layout=compact&langs_count=4&theme=algolia)
 
 ---
 
