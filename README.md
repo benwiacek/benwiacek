@@ -24,6 +24,7 @@
 
 ## Recent Projects
 
+- **[Gold Digger](https://github.com/benwiacek/gold-digger)** - Node.js backend application with server-side routing and live data
 - **[Wildlife Quiz](https://wildlife-quiz.netlify.app/)** - React trivia game with API-driven content and dynamic state management
 - **[Movie Watchlist](https://movie-watchlist-ben.netlify.app/)** - OMDb API integration with local storage persistence
 - **[Obiwan Kendogu](https://obiwan-kendogu.netlify.app/)** - Star Wars-themed Kendo shop with cart logic and checkout flow
