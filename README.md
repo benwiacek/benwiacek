@@ -14,8 +14,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css&logoColor=white)
 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-8E44AD?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BCjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMCAxNmMwLTYuNjI3IDkuODUtMTIgMjItMTJzMjIgNS4zNzMgMjIgMTJ2MzJjMCA2LjYyNy05Ljg1IDEyLTIyIDEyUzEwIDU0LjYyNyAxMCA0OFYxNnptNCAwYzAgNC40MTggOC4wNTkgOCAxOCA4czE4LTMuNTgyIDE4LTgtOC4wNTktOC0xOC04LTE4IDMuNTgyLTE4IDh6bTAgMTZjMCA0LjQxOCA4LjA1OSA4IDE4IDhzMTgtMy41ODIgMTgtOHYtOGMtNC4xMTQgMy4xNDItMTAuNTk4IDQuOTk5LTE4IDQuOTk5UzE4LjExNCAyNy4xNDIgMTQgMjR2OHptMCAxNmMwIDQuNDE4IDguMDU5IDggMTggOHMxOC0zLjU4MiAxOC04di04Yy00LjExNCAzLjE0Mi0xMC41OTggNC45OTktMTggNC45OTlTMTguMTE0IDQzLjE0MiAxNCA0MHY4eiIvPgo8L3N2Zz4%3D)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-333333.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMjAiIGhlaWdodD0iMzIwIiB2ZXJzaW9uPSIxLjEiPgogICAgPGcgZmlsbD0iI2ZmZmZmZiI+CiAgICAgICAgPHBvbHlnb24gcG9pbnRzPSIzMCw2NSAzMjAsMjgwIDI0MCwzMjAgMCw4MCIvPgogICAgICAgIDxwb2x5Z29uIHBvaW50cz0iMzAsMjU1IDMyMCw0MCAyNDAsMCAwLDI0MCIvPgogICAgICAgIDxwb2x5Z29uIHBvaW50cz0iMjQwLDAgMzIwLDQwIDMyMCwyODAgMjQwLDMyMCIvPgogICAgPC9nPgo8L3N2Zz4K&logoColor=white)
