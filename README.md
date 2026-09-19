@@ -2,7 +2,7 @@
 
 - 🛠️ **What I build:** React applications with routing, API integration, and thoughtful UI/UX
 
-- 🎯 **Current focus:** Mastering component architecture and exploring performance optimization techniques
+- 🎯 **Current focus:** Working through Full Stack Open (University of Helsinki), deepening React, testing, and backend fundamentals
 
 - 🚀 **Exploring next:** Next.js, CMS integration, headless workflows
 
