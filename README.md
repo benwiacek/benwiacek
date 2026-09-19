@@ -13,10 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-8E44AD?style=for-the-badge&logo=data:image/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI%2BCjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMCAxNmMwLTYuNjI3IDkuODUtMTIgMjItMTJzMjIgNS4zNzMgMjIgMTJ2MzJjMCA2LjYyNy05Ljg1IDEyLTIyIDEyUzEwIDU0LjYyNyAxMCA0OFYxNnptNCAwYzAgNC40MTggOC4wNTkgOCAxOCA4czE4LTMuNTgyIDE4LTgtOC4wNTktOC0xOC04LTE4IDMuNTgyLTE4IDh6bTAgMTZjMCA0LjQxOCA4LjA1OSA4IDE4IDhzMTgtMy41ODIgMTgtOHYtOGMtNC4xMTQgMy4xNDItMTAuNTk4IDQuOTk5LTE4IDQuOTk5UzE4LjExNCAyNy4xNDIgMTQgMjR2OHptMCAxNmMwIDQuNDE4IDguMDU5IDggMTggOHMxOC0zLjU4MiAxOC04di04Yy00LjExNCAzLjE0Mi0xMC41OTggNC45OTktMTggNC45OTlTMTguMTE0IDQzLjE0MiAxNCA0MHY4eiIvPgo8L3N2Zz4%3D)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-333333.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -36,13 +33,5 @@
 
 ---
 
-## GitHub Stats
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=benwiacek&show_icons=true&card_width=450&line_height=27&rank_icon=github&custom_title=GitHub%27s%20Stats&include_all_commits=true&theme=algolia)](https://github-stats-extended.vercel.app/api?username=benwiacek&rank_icon=github&custom_title=Ben%20GitHub%27s%20Stats&include_all_commits=true&theme=algolia)[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=benwiacek&layout=normal&&card_width=450langs_count=4&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=benwiacek&layout=compact&langs_count=4&theme=algolia)
-
----
-
 ## Connect
 **[Portfolio](https://benwiacek.github.io/)** • **[LinkedIn](https://www.linkedin.com/in/benjamin-wiacek/)**
-
-[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/?via=u420ffde)
